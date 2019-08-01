@@ -1,1 +1,2 @@
-"# generates_gifs" 
+# Generate GIFS
+
